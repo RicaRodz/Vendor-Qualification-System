@@ -1,0 +1,14 @@
+[
+    {
+        "software_category": "Project Management Software",
+        "capabilities": ["Task Scheduling", "Time Tracking"]
+    },
+    {
+        "software_category": "CRM Software",
+        "capabilities": ["Lead Management", "Customer Support"]
+    },
+    {
+        "software_category": "Accounting Software",
+        "capabilities": ["Invoice Management", "Expense Tracking"]
+    }
+]
