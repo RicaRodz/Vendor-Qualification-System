@@ -13,19 +13,16 @@ Choosing between **embeddings** and **TF-IDF** was a critical decision—ultimat
 
 
 ## **Future Improvements**  
-✨ **API Development** – Transforming the system into an accessible API for seamless integration.  
-⚡ **Enhanced Similarity Search** – Refining the ranking algorithm for even more accurate results.  
-📚 **Vector Database Integration** – Leveraging a vector database for faster lookups, improving efficiency and scalability.  
-I would also containarize the application 
-
-
-Here’s the updated **"How to Run"** section in your `README.md`, now including a requirement for placing data files in the `data` folder at the root level.
+**API Development** – Transforming the system into an accessible API for seamless integration.  
+**Enhanced Similarity Search** – Refining the ranking algorithm for even more accurate results.  
+**Vector Database Integration** – Leveraging a vector database for faster lookups, improving efficiency and scalability.  
+* I would also containarize the application 
 
 ---
-### **📌 Note:**  
+### ** Note:**  
 This project originally started in a Jupyter notebook, where I carefully documented my thought process, experiments, and step-by-step progress in building the system. That notebook serves as a detailed record of the development journey. To ensure ease of use and a more structured application, the final, refined system has been organized inside the `app` folder, ready to run seamlessly. 🚀
 
-## 🚀 How to Run This Project  
+## How to Run This Project  
 
 ### **1️⃣ Clone the Repository**  
 
