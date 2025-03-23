@@ -19,7 +19,7 @@ Choosing between **embeddings** and **TF-IDF** was a critical decision—ultimat
 * I would also containarize the application 
 
 ---
-### ** Note:**  
+### Note  
 This project originally started in a Jupyter notebook, where I carefully documented my thought process, experiments, and step-by-step progress in building the system. That notebook serves as a detailed record of the development journey. To ensure ease of use and a more structured application, the final, refined system has been organized inside the `app` folder, ready to run seamlessly. 🚀
 
 ## How to Run This Project  
